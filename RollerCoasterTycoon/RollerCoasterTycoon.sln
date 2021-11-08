@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollerCoasterTycoon", "RollerCoasterTycoon\RollerCoasterTycoon.csproj", "{74BB156D-140D-4E8C-9D59-AD5A85959563}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollerCoasterTycoonTest", "RollerCoasterTycoonTest\RollerCoasterTycoonTest.csproj", "{48EBAA1E-EAF1-40B0-90F8-23A0929F162E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BB156D-140D-4E8C-9D59-AD5A85959563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BB156D-140D-4E8C-9D59-AD5A85959563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BB156D-140D-4E8C-9D59-AD5A85959563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BB156D-140D-4E8C-9D59-AD5A85959563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EBAA1E-EAF1-40B0-90F8-23A0929F162E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EBAA1E-EAF1-40B0-90F8-23A0929F162E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EBAA1E-EAF1-40B0-90F8-23A0929F162E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EBAA1E-EAF1-40B0-90F8-23A0929F162E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06550987-E402-4223-AEBA-33E249BC285C}
+	EndGlobalSection
+EndGlobal
